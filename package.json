@@ -1,0 +1,28 @@
+{
+  "name": "video-streaming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "xnlyre",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xnlyre/video-streaming-microservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xnlyre/video-streaming-microservice/issues"
+  },
+  "homepage": "https://github.com/xnlyre/video-streaming-microservice#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
